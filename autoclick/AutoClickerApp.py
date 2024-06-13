@@ -67,7 +67,7 @@ class AutoClickerApp:
             root (tk.Tk): Main tkinter window.
         """
         self.root = root
-        self.root.title("Auto Clicker")
+        self.root.title("ACT's Auto-Clicker")
         self.root.geometry("400x350")  # Window size
 
         self.clicking = False
