@@ -1,3 +1,4 @@
 # autoclicker
-a basic python autoclicker
-run program and use f1 to start and stop clicking
+A basic python autoclicker.
+
+Run program and use f1 to start and stop clicking
